@@ -1,0 +1,21 @@
+.header{
+	width: 1440px;
+	display: inline-block;
+}
+.header-icon{
+	display: inline-block;
+	text-align: center;
+}
+.logo{
+	margin-right: 92px;
+	margin-top: 20px;
+	margin-left: 20px;
+	color: #FA6980;
+}
+.margin{
+	margin-right: 22px;
+}
+.container{
+	width: 1160px;
+	margin: 0 auto;
+}
