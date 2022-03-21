@@ -1,21 +1,93 @@
-.header{
-	width: 1440px;
-	display: inline-block;
-}
-.header-icon{
-	display: inline-block;
-	text-align: center;
-}
+
 .logo{
-	margin-right: 92px;
-	margin-top: 20px;
-	margin-left: 20px;
+	margin-right: 100px;
 	color: #FA6980;
 }
-.margin{
-	margin-right: 22px;
-}
+
 .container{
 	width: 1160px;
+	margin-left: 90px;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;	
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 27px;
+}
+.header-wraper{
+	width: 1440;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+.trending{
+	margin-bottom: 40px;
+}
+.box-text{
+	display: inline-block;
+	text-align: middle;
+	width: 280px;
+	height: 38px;
+	margin: 60px 40px;
+}
+.image-text-1{
+	position: absolute;
+	color: white;
+	top: 28px;
+	}
+.image-box{
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	background: lightblue;
+	position: relative;
+}
+
+.box {
+	margin-right: 20px;
+}
+.container2{
+	width: 1160px;
 	margin: 0 auto;
+	margin-top: 52px;
+	margin-bottom: 234px;
+	
+}
+.image-text-2{
+	position: absolute;
+	color: red;
+	bottom: 10px;
+	right: 80px;
+}
+.image-box-2 {
+	display: inline-block;
+	width: 760px;
+	height: 350px;
+	background: lightblue;
+	position: relative;
+}
+
+.Image-margin{
+	margin-top: 40px;
+}
+.image-box-3{
+	display: inline-block;
+	width: 360px;
+	margin: 0 auto;
+	margin-left: 10px;
+	margin-bottom: 40px;
+	position: relative;
+}
+.image-right{
+	margin-top: 102px;
+}
+.b{
+	margin-bottom: 65px;
+}
+.p-2{
+	position: absolute;
+	color: red;
 }
